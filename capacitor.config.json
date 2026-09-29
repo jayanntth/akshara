@@ -1,0 +1,9 @@
+{
+  "appId": "dev.akshara.app",
+  "appName": "Akshara",
+  "webDir": "dist",
+  "android": {
+    "backgroundColor": "#5B45E0",
+    "allowMixedContent": true
+  }
+}

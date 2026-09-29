@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Akshara</string>
+    <string name="title_activity_main">Akshara</string>
+    <string name="package_name">dev.akshara.app</string>
+    <string name="custom_url_scheme">dev.akshara.app</string>
+</resources>
